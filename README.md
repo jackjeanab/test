@@ -5,8 +5,15 @@
 ![alt 文字](test.jpg "學員手機畫面截圖")
 
 
-插入圖片語法：
-'''markdown
-  ![alt 文字](test.jpg "學員手機畫面截圖")
-'''
+清單語法：
+```markdown
+* 手機畫面設計
+* Github練習
+* 設計成果：
+```
+
+圖片語法：
+```markdown
+![alt 文字](test.jpg "學員手機畫面截圖")
+```
 
