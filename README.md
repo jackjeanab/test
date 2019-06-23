@@ -3,3 +3,7 @@
 * Github練習
 * 設計成果：
 ![alt 文字](test.jpg "學員手機畫面截圖")
+```javascript
+var s = "JavaScript 語法高亮";
+alert(s);
+```
