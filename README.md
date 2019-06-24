@@ -2,7 +2,7 @@
 * 手機畫面設計
 * Github練習
 * 設計成果：
-![alt 文字](test.jpg =100x "學員手機畫面截圖")
+![](test.jpg =100x)
 
 標題語法：
 ```markdown
