@@ -2,7 +2,7 @@
 * 手機畫面設計
 * Github練習
 * 設計成果：
-![img](test.jpg){: width="100px"  height="100px")
+![img](test.jpg)
 ![alt 文字](test.jpg "學員手機畫面截圖")
 
 標題語法：
